@@ -1,2 +1,2 @@
 # pagina-inicial-do-instagram
-Fiz a página de login do instagram 
+Página inicial do instagram no HTML & CSS. 
